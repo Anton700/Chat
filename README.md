@@ -7,7 +7,7 @@ Boja je fiksna u pregledu poruka, jer se često generiraju random boje koje se k
 Kraj poruka je prikazano vrijeme kada je poslano, kada korisnik zatvori tab, miče se s popisa aktivnih korisnika.
 Korišteno je 30 najčešćih hrvatskih imena i prezimena.
 
-Check out the live demo of the application: [ChatApp-JS Demo](http://chat.anton008.com)
+Demo je dostupan na: [Demo serveru](http://chat.anton008.com)
 
 ## Upute za rad
 
